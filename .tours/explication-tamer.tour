@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "explication tamer",
+  "steps": [
+    {
+      "file": "src/app/shared/components/Table.tsx",
+      "description": "# Pourquoi\r\nEh bien, parce que !\r\nVoilà",
+      "line": 71
+    }
+  ],
+  "ref": "master"
+}
